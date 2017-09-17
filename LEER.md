@@ -12,7 +12,7 @@ Tecnología y Desarrollo
 
 BitLuca utiliza la tecnología peer-to-peer para operar sin autoridad central: la gestión de las transacciones y la emisión de dinero se realizan colectivamente por la red. BitLuca nace del código modificado de Bitcoin; El Bitcoin Core, que es el nombre de código abierto software que permite el uso de esta moneda. 
 
-El desarrollo de la moneda esta siendo guiado desde Tokio, Japón, donde parte del equipo desarrollador se encuentra trabajando desde allí… Pero ojo, somos latinos. 
+El desarrollo de la moneda esta siendo guiado desde Tokio, Japón; parte del equipo desarrollador se encuentra trabajando desde allí… Pero ojo, somos latinos. 
 Como sabemos, Japón es uno de los países que está a la vanguardia en proyectos y avances regulatorios de blockchain y especialmente de Bitcoin. Por lo tanto, nos interesa aprender de ellos y llevar este conocimiento a nuestro continente, con el sueño de que Latinoamérica este en a la vanguardia en criptomonedas y blockchain.
 
 Y… ¿El nombre?
